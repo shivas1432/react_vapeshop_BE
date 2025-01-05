@@ -1,10 +1,10 @@
-#Vape Shop_react_backend
+# Vape Shop_react_backend
 
 This is the backend API for the Vape Shop application. The server is built using Node.js, Express, and MySQL. The project provides routes for user registration, login, and password management.
 
-##Setup
+## Setup
 
-###Prerequisites
+### Prerequisites
 
 Node.js: Make sure you have Node.js installed on your machine. You can download it from here.
 MySQL: You need to have MySQL running on your local machine or use a remote database. Make sure the database and tables are set up properly.
@@ -18,7 +18,7 @@ DB_DATABASE=social
 JWT_SECRET=your_jwt_secret_key
 Replace your_password with the your actual MySQL password and your_jwt_secret_key with a random string for signing JWT tokens.
 
-###Installing Dependencies
+### Installing Dependencies
 Clone the repository to your local machine:
 
 git clone https://github.com/shivas1432/react_vapeshop_BE.git
